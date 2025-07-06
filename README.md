@@ -51,7 +51,7 @@ Extract and visualize simple sales metrics (total quantity sold and total revenu
 ---
 
 ## Files Included
-- `sales_analysis.ipynb` – Python script
+- `task7.ipynb` – Python script
 - `sales_data.db` – SQLite database file
 - `sales_chart.png` – Bar chart image (auto-generated)
 
